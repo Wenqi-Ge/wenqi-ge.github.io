@@ -12,17 +12,14 @@ I am currently pursuing my M.Sc. at SusTech's [RcvLab](https://uav.hkust.edu.hk/
 
 My primary research interests encompass robotics and scene understanding, with a particular emphasis on scene understanding, scementic, and final step.
 
-If you have any good ideas or cooperation intentions, please feel free to contact me at zqiaoac@connect.ust.hk :)
+If you have any good ideas or cooperation intentions, please feel free to contact me at 12232112@mail.sustech.edu.cn :)
 
 Education
-======
-* Ph.D., Hong Kong University of Science and Technology, 2022 - Present
-  * Department of Electronic and Computer Engineering
-  
-* M.S. Control Engineering, Shanghai Jiao Tong University, 2019 - 2022
+====== 
+* M.S. Electronic Science and Technology, Southern University of Science and Technology, 2022 - now
   * Department of Automation, School of Electronics, Information and Electrical Engineering 
 
-* B.S. Automation, Northeastern University(China), 2015 - 2019
+* B.S. Computer Science and Technology, Hefei University of Technology, 2018 - 2022
   * Department of Automation, College of Information Science and Engineering
   
 Selected Honors

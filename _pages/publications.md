@@ -5,6 +5,9 @@ permalink: /publications/
 author_profile: true
 ---
 
+{% include base_path %}
+
+
 <html>
     <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
           <tr onmouseout="nightsight_stop()" onmouseover="nightsight_start()">
