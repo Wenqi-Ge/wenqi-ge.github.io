@@ -10,12 +10,15 @@ redirect_from:
 
 I am currently pursuing my M.Sc. at SusTech's [RcvLab](https://uav.hkust.edu.hk/), under the guidance of Prof. [Hong Zhang](https://scholar.google.com.hk/citations?user=u8Q0_xsAAAAJ&hl=zh-CN&oi=ao). Prior to this, I earned my B's degree from the [HeFei University of Technology](http://irmv.sjtu.edu.cn/) at Shanghai Jiao Tong University.
 
-My primary research interests encompass robotics and scene understanding, with a particular emphasis on scene understanding, scementic mapping, and final step of robot task.
+My primary research interests encompass robotics and scene understanding, with a particular emphasis on scene understanding, scementic, and final step.
 
-If you have any good ideas or cooperation intentions, please feel free to contact me at winkyge99@gmail.com :)
+If you have any good ideas or cooperation intentions, please feel free to contact me at zqiaoac@connect.ust.hk :)
 
 Education
 ======
+* Ph.D., Hong Kong University of Science and Technology, 2022 - Present
+  * Department of Electronic and Computer Engineering
+  
 * M.S. Control Engineering, Shanghai Jiao Tong University, 2019 - 2022
   * Department of Automation, School of Electronics, Information and Electrical Engineering 
 
@@ -24,7 +27,7 @@ Education
   
 Selected Honors
 ======
-* **Outstanding Graduates**, 2022, HFUT
+* **Outstanding Graduates**, 2022, SJTU
 * **Most Influential Graduates**, 2019, NEU
 * **Champion**, the 17th China University Robot Competition, 2018 [[link]](http://www.cnrobocon.net/#/)
 * **Runner-up**, The ABU Asia-Pacific Robot Contest, 2018 [[link]](https://en.wikipedia.org/wiki/ABU_Robocon)

@@ -89,7 +89,7 @@ author:
   employer:
   pubmed:
   googlescholar:
-  email: "12232112@mail.sustech.edu.cn"
+  email: "12232112@mail.sustech.ust.hk"
   researchgate:
   uri:
   bitbucket:
@@ -192,10 +192,6 @@ collections:
   talks:
     output: true
     permalink: /:collection/:path/
-  # cv:
-  #   output: true
-  #   permalink: /:collection/:path/
-
 
 
 # Defaults
