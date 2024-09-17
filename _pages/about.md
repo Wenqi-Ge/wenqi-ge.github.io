@@ -8,20 +8,101 @@ redirect_from:
   - /about.html
 ---
 
-I am currently pursuing my M.Sc. at SusTech's [RcvLab](https://uav.hkust.edu.hk/), under the guidance of Prof. [Hong Zhang](https://scholar.google.com.hk/citations?user=u8Q0_xsAAAAJ&hl=zh-CN&oi=ao). Prior to this, I earned my B's degree from the [HeFei University of Technology](http://irmv.sjtu.edu.cn/) at Shanghai Jiao Tong University.
+I am currently pursuing my M.Sc at SusTech's [RcvLab](https://rcvlab.eee.sustech.edu.cn/), under the guidance of Prof. [Hong Zhang](https://faculty.sustech.edu.cn/?tagid=zhangh33&iscss=1&snapid=1&orderby=date&go=2&lang=en). Prior to this, I earned my B's degree from the [HeFei University of Technology](http://irmv.sjtu.edu.cn/) of Science and TEchnology.
 
-My primary research interests encompass robotics and scene understanding, with a particular emphasis on scene understanding, scementic, and final step.
+My primary research interests encompass social aware task plannig, scene understanding for robot, human-robot interaction and robot learning. The ultimate goal is to develop agents that can perceive, understand, and interact with the physics world with human in the same level of intelligence as human.
 
 If you have any good ideas or cooperation intentions, please feel free to contact me at 12232112@mail.sustech.edu.cn :)
-
-Education
-====== 
-* M.S. Electronic Science and Technology, Southern University of Science and Technology, 2022 - now
-  * Department of Automation, School of Electronics, Information and Electrical Engineering 
-
-* B.S. Computer Science and Technology, Hefei University of Technology, 2018 - 2022
-  * Department of Automation, College of Information Science and Engineering
   
+
+Publication Brief View
+======
+<html>
+    <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
+          <tr onmouseout="nightsight_stop()" onmouseover="nightsight_start()">
+            <td style="padding:10px;width:40%;vertical-align:middle;border-left-style:none;border-bottom-style:none;border-top-style:none;border-right-style:none">
+              <img src="../images/graspGPT.gif" alt="hpp" style="border-style: none" >
+            </td>
+            <td style="padding:20px;width:75%;vertical-align:middle;border-left-style:none;border-bottom-style:none;border-top-style:none;border-right-style:none">
+                <papertitle>GraspGPT: Leveraging Semantic Knowledge from a Large Language Model for Task-Oriented Grasping
+                </papertitle>
+              <br>
+                Tang C, Huang D, <strong>Ge W</strong>, et al.
+              <br>
+              <em>Accept in RAL2023</em><br>
+              <a href="https://arxiv.org/abs/2307.13204">arxiv</a>
+            </td>
+          </tr>
+    </table>
+
+
+
+    <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
+          <tr onmouseout="nightsight_stop()" onmouseover="nightsight_start()">
+            <td style="padding:10px;width:40%;vertical-align:middle;border-left-style:none;border-bottom-style:none;border-top-style:none;border-right-style:none">
+              <img src="../images/CSG-gif.gif" alt="hpp" style="border-style: none" >
+            </td>
+            <td style="padding:20px;width:75%;vertical-align:middle;border-left-style:none;border-bottom-style:none;border-top-style:none;border-right-style:none">
+                <papertitle>Speak the Same Language: Global LiDAR Registration on BIM Using Pose Hough Transform
+                </papertitle>
+              <br>
+                <strong>Zhijian Qiao</strong>, Haoming Huang, Chuhao Liu, Shaojie Shen, Fumin Zhang, Huan Yin
+              <br>
+              <em>Under review.</em><br>
+              <a href="https://arxiv.org/abs/2405.03969">arxiv</a>
+            </td>
+          </tr>
+    </table>
+
+    <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
+          <tr onmouseout="nightsight_stop()" onmouseover="nightsight_start()">
+            <td style="padding:10px;width:40%;vertical-align:middle;border-left-style:none;border-bottom-style:none;border-top-style:none;border-right-style:none">
+              <img src="../images/isaac-scenes.gif" alt="hpp" style="border-style: none" >
+            </td>
+            <td style="padding:20px;width:75%;vertical-align:middle;border-left-style:none;border-bottom-style:none;border-top-style:none;border-right-style:none">
+                <papertitle>Speak the Same Language: Global LiDAR Registration on BIM Using Pose Hough Transform
+                </papertitle>
+              <br>
+                <strong>Zhijian Qiao</strong>, Haoming Huang, Chuhao Liu, Shaojie Shen, Fumin Zhang, Huan Yin
+              <br>
+              <em>Under review.</em><br>
+              <!-- <a href="https://arxiv.org/abs/2405.03969">arxiv</a> -->
+            </td>
+          </tr>
+    </table>
+</html>
+
+
+Skill
+======
+## SLAM + semntic map building
+
+<html>
+    <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
+          <tr onmouseout="nightsight_stop()" onmouseover="nightsight_start()">
+            <td style="padding:10px;width:40%;vertical-align:middle;border-left-style:none;border-bottom-style:none;border-top-style:none;border-right-style:none">
+              <img src="../images/CSG-gif.gif" alt="hpp" style="border-style: none" >
+            </td>
+            <td style="padding:20px;width:75%;vertical-align:middle;border-left-style:none;border-bottom-style:none;border-top-style:none;border-right-style:none">
+                <papertitle>Speak the Same Language: Global LiDAR Registration on BIM Using Pose Hough Transform
+                </papertitle>
+              <br>
+                <strong>Zhijian Qiao</strong>, Haoming Huang, Chuhao Liu, Shaojie Shen, Fumin Zhang, Huan Yin
+              <br>
+              <em>Under review.</em><br>
+              <a href="https://arxiv.org/abs/2405.03969">arxiv</a>
+            </td>
+          </tr>
+    </table>
+</html>
+
+## Isaacsim + grasping
+
+<video src="../images/isaac.mp4" style="width:100%; height:auto;" controls autoplay loop muted playsinline></video>
+
+
+
+
 Selected Honors
 ======
 * **Outstanding Graduates**, 2022, SJTU
@@ -31,10 +112,3 @@ Selected Honors
 * **Champion**, the 16th China University Robot Competition, 2017 [[link]](http://www.cnrobocon.net/#/)
 * **Best Engineering**, The ABU Asia-Pacific Robot Contest, 2017 [[link]](http://www.aburobocon.net/)
 
-Community Services
-======
-* Conference reviewer: ICRA, IROS, ROBIO
-* Journal reviewer: T-ASE
-* Teaching assistant: 
-  * ELEC 1100: Introduction to Electro-Robot Design, HKUST, 2023 Spring
-  * ELEC 3210: Machine Learning and Information Processing for Robotics, HKUST, 2023 Fall
