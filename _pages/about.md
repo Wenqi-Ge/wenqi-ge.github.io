@@ -15,7 +15,7 @@ My primary research interests encompass **social aware task plannig**, **scene u
 <!-- If you have any good ideas or cooperation intentions, please feel free to contact me at 12232112@mail.sustech.edu.cn :) -->
   
 
-Publication Brief View
+📝Publication Brief View
 ======
 <html>
 
@@ -54,7 +54,7 @@ Publication Brief View
     font-family: Arial, sans-serif; /* Apply a font family */
   }
 .page {
-  padding-right: 6% !important; /* 强制优先应用此样式 */
+  padding-right: 8% !important; /* 强制优先应用此样式 */
 }
 
 </style>
@@ -67,12 +67,12 @@ Publication Brief View
     <td style="padding:20px;width:75%;vertical-align:middle;border-left-style:none;border-bottom-style:none;border-top-style:none;border-right-style:none">
       <papertitle>GraspGPT: Leveraging Semantic Knowledge from a Large Language Model for Task-Oriented Grasping</papertitle>
       <br>
-      Tang C, Huang D, <strong>Ge W</strong>, et al.
+      Chao Tang, Dehao Huang, <strong>Wenqi Ge</strong>, Weiyu Liu, Hong Zhang
       <br>
       <em>Published in 2023 IEEE Robotics and Automation Letters (RAL)</em><br>
-      <a href="https://arxiv.org/abs/2307.13204" class="custom-link arxiv">arxiv</a>
-      <a href="https://sites.google.com/view/graspgpt/" class="custom-link web">site</a>
-      <a href="https://www.youtube.com/watch?v=qq0DMdHRw1E" class="custom-link video">video</a>
+      <a href="https://arxiv.org/abs/2307.13204" target="_blank" class="custom-link arxiv">arxiv</a>
+      <a href="https://sites.google.com/view/graspgpt/"  target="_blank" class="custom-link web">site</a>
+      <a href="https://www.youtube.com/watch?v=qq0DMdHRw1E" target="_blank" class="custom-link video">video</a>
     </td>
   </tr>
 </table>
@@ -87,36 +87,25 @@ Publication Brief View
           <td style="padding:20px;width:75%;vertical-align:middle;border-left-style:none;border-bottom-style:none;border-top-style:none;border-right-style:none">
               <papertitle>Commonsense Scene Graph-based Target Localization for Object Search</papertitle>
             <br>
-              <strong>Zhijian Qiao</strong>, Haoming Huang, Chuhao Liu, Shaojie Shen, Fumin Zhang, Huan Yin
+              <strong>Wenqi Ge</strong>, Chao Tang, Hong Zhang
             <br>
-            <em>Under review.</em><br>
-            <a href="https://arxiv.org/abs/2405.03969">arxiv</a>
+            <em>Accepted by as <strong>Oral</strong> in 2024 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)</em><br>
+            <a href="https://arxiv.org/abs/2404.00343" target="_blank" class="custom-link arxiv">arxiv</a>
+            <a href="https://sites.google.com/view/csg-os"  target="_blank" class="custom-link web">site</a>
+            <a href="https://www.youtube.com/watch?v=W_fRpC8F86Y" target="_blank" class="custom-link video">video</a>
           </td>
         </tr>
   </table>
 
-    <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
-          <tr onmouseout="nightsight_stop()" onmouseover="nightsight_start()">
-            <td style="padding:10px;width:40%;vertical-align:middle;border-left-style:none;border-bottom-style:none;border-top-style:none;border-right-style:none">
-              <img src="../images/isaac-scenes.gif" alt="hpp" style="border-style: none" >
-            </td>
-            <td style="padding:20px;width:75%;vertical-align:middle;border-left-style:none;border-bottom-style:none;border-top-style:none;border-right-style:none">
-                <papertitle>Speak the Same Language: Global LiDAR Registration on BIM Using Pose Hough Transform
-                </papertitle>
-              <br>
-                <strong>Zhijian Qiao</strong>, Haoming Huang, Chuhao Liu, Shaojie Shen, Fumin Zhang, Huan Yin
-              <br>
-              <em>Under review.</em><br>
-              <!-- <a href="https://arxiv.org/abs/2405.03969">arxiv</a> -->
-            </td>
-          </tr>
-    </table>
+
 </html>
 
 
-Skill
+💡Skills
 ======
-## SLAM + semntic map building
+
+<h2 id="slam-map-building" href="#slam-map-building">SLAM + semntic map building</h2><a href="#slam-map-building"></a>
+
 
 <html>
     <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
@@ -137,19 +126,18 @@ Skill
     </table>
 </html>
 
-## Isaacsim + grasping
+
+<h2 id="slam-map-building" href="#slam-map-building">Isaacsim + Rod + graspingg</h2><a href="#slam-map-building"></a>
 
 <video src="../images/isaac.mp4" style="width:100%; height:auto;" controls autoplay loop muted playsinline></video>
 
 
 
 
-Selected Honors
+🍻Selected Honors
 ======
-* **Outstanding Graduates**, 2022, SJTU
-* **Most Influential Graduates**, 2019, NEU
-* **Champion**, the 17th China University Robot Competition, 2018 [[link]](http://www.cnrobocon.net/#/)
-* **Runner-up**, The ABU Asia-Pacific Robot Contest, 2018 [[link]](https://en.wikipedia.org/wiki/ABU_Robocon)
+* **Outstanding Graduates**, 2022, HFUT
+* **Runner-up**, the 19th & 20th National College Students’ Robotics Competition ROBOMASTER 2021 Regional Tournament (Northern Region), 2020-2021 HFU
 * **Champion**, the 16th China University Robot Competition, 2017 [[link]](http://www.cnrobocon.net/#/)
 * **Best Engineering**, The ABU Asia-Pacific Robot Contest, 2017 [[link]](http://www.aburobocon.net/)
 
