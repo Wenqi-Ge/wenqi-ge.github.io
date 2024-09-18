@@ -127,7 +127,7 @@ My primary research interests encompass **social aware task plannig**, **scene u
 </html>
 
 
-<h2 id="slam-map-building" href="#slam-map-building">Isaacsim + Rod + graspingg</h2><a href="#slam-map-building"></a>
+<h2 id="slam-map-building" href="#slam-map-building">Isaacsim + Ros + graspingg</h2><a href="#slam-map-building"></a>
 
 <video src="../images/isaac.mp4" style="width:100%; height:auto;" controls autoplay loop muted playsinline></video>
 
