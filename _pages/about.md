@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently pursuing my M.Sc at SusTech's [RcvLab](https://rcvlab.eee.sustech.edu.cn/), under the guidance of Prof. [Hong Zhang](https://faculty.sustech.edu.cn/?tagid=zhangh33&iscss=1&snapid=1&orderby=date&go=2&lang=en). Prior to this, I earned my B's degree from the [HeFei University of Technology](http://irmv.sjtu.edu.cn/) of Computer Science and Technology.
+I am currently pursuing my M.Sc at SusTech's [RcvLab](https://rcvlab.eee.sustech.edu.cn/), under the guidance of Prof. [Hong Zhang](https://faculty.sustech.edu.cn/?tagid=zhangh33&iscss=1&snapid=1&orderby=date&go=2&lang=en). Prior to this, I earned my B's degree from the HeFei University of Technology of Computer Science and Technology.
 
 My primary research interests encompass **social aware task plannig**, **scene understanding for robot**, **human-robot interaction** and **robot learning**. The ultimate goal is to develop agents that can perceive, understand, and interact with the physics world with human in the same level of intelligence as human.
 
@@ -60,6 +60,25 @@ My primary research interests encompass **social aware task plannig**, **scene u
 </style>
 
 <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
+      <tr onmouseout="nightsight_stop()" onmouseover="nightsight_start()">
+        <td style="padding:10px;width:40%;vertical-align:middle;border-left-style:none;border-bottom-style:none;border-top-style:none;border-right-style:none">
+          <img src="../images/CSG-gif.gif" alt="hpp" style="border-style: none" >
+        </td>
+        <td style="padding:20px;width:75%;vertical-align:middle;border-left-style:none;border-bottom-style:none;border-top-style:none;border-right-style:none">
+            <papertitle>Commonsense Scene Graph-based Target Localization for Object Search</papertitle>
+          <br>
+            <strong>Wenqi Ge</strong>, Chao Tang, Hong Zhang
+          <br>
+          <em>Accepted by as <strong>Oral</strong> in 2024 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)</em><br>
+          <a href="https://arxiv.org/abs/2404.00343" target="_blank" class="custom-link arxiv">arxiv</a>
+          <a href="https://sites.google.com/view/csg-os"  target="_blank" class="custom-link web">site</a>
+          <a href="https://www.youtube.com/watch?v=W_fRpC8F86Y" target="_blank" class="custom-link video">video</a>
+        </td>
+      </tr>
+</table>
+
+
+<table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
   <tr onmouseout="nightsight_stop()" onmouseover="nightsight_start()">
     <td style="padding:10px;width:40%;vertical-align:middle;border-left-style:none;border-bottom-style:none;border-top-style:none;border-right-style:none">
       <img src="../images/graspGPT.gif" alt="hpp" style="border-style: none">
@@ -79,35 +98,17 @@ My primary research interests encompass **social aware task plannig**, **scene u
 
 
 
-  <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
-        <tr onmouseout="nightsight_stop()" onmouseover="nightsight_start()">
-          <td style="padding:10px;width:40%;vertical-align:middle;border-left-style:none;border-bottom-style:none;border-top-style:none;border-right-style:none">
-            <img src="../images/CSG-gif.gif" alt="hpp" style="border-style: none" >
-          </td>
-          <td style="padding:20px;width:75%;vertical-align:middle;border-left-style:none;border-bottom-style:none;border-top-style:none;border-right-style:none">
-              <papertitle>Commonsense Scene Graph-based Target Localization for Object Search</papertitle>
-            <br>
-              <strong>Wenqi Ge</strong>, Chao Tang, Hong Zhang
-            <br>
-            <em>Accepted by as <strong>Oral</strong> in 2024 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)</em><br>
-            <a href="https://arxiv.org/abs/2404.00343" target="_blank" class="custom-link arxiv">arxiv</a>
-            <a href="https://sites.google.com/view/csg-os"  target="_blank" class="custom-link web">site</a>
-            <a href="https://www.youtube.com/watch?v=W_fRpC8F86Y" target="_blank" class="custom-link video">video</a>
-          </td>
-        </tr>
-  </table>
-
-
 </html>
 
 
 💡Skills
 ======
-
-<h2 id="slam-map-building">SLAM + semntic map building</h2><a href="#slam-map-building"></a>
-
-
 <html>
+<a href="#slam-map-building"></a>
+<h2 id="slam-map-building">SLAM + semntic map building</h2>
+
+
+
     <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
           <tr onmouseout="nightsight_stop()" onmouseover="nightsight_start()">
             <td style="padding:10px;width:40%;vertical-align:middle;border-left-style:none;border-bottom-style:none;border-top-style:none;border-right-style:none">
@@ -124,13 +125,14 @@ My primary research interests encompass **social aware task plannig**, **scene u
             </td>
           </tr>
     </table>
-</html>
 
 
-<h2 id="slam-map-building">Isaacsim + Ros + graspingg</h2><a href="#grasp-ros"></a>
+
+<a href="#grasp-ros"></a>
+<h2 id="slam-map-building">Isaacsim + Ros + graspingg</h2>
 
 <video src="../images/isaac.mp4" style="width:100%; height:auto;" controls autoplay loop muted playsinline></video>
-
+</html>
 
 
 
