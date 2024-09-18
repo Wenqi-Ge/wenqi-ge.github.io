@@ -127,7 +127,7 @@ My primary research interests encompass **social aware task plannig**, **scene u
 </html>
 
 
-<h2 id="slam-map-building" href="#slam-map-building">Isaacsim + Ros + graspingg</h2><a href="#slam-map-building"></a>
+<h2 id="slam-map-building" href="#slam-map-building">Isaacsim + Ros + graspingg</h2><a href="#grasp-ros"></a>
 
 <video src="../images/isaac.mp4" style="width:100%; height:auto;" controls autoplay loop muted playsinline></video>
 
@@ -137,7 +137,7 @@ My primary research interests encompass **social aware task plannig**, **scene u
 🍻Selected Honors
 ======
 * **Outstanding Graduates**, 2022, HFUT
-* **Runner-up**, the 19th & 20th National College Students’ Robotics Competition ROBOMASTER 2021 Regional Tournament (Northern Region), 2020-2021 HFU
+* **Runner-up**, the 19th & 20th National College Students’ Robotics Competition **ROBOMASTER** 2021 Regional Tournament (Northern Region), 2020-2021 HFU
 * **Champion**, The National Undergraduate Engineering Training Competition (Anhui Province Divison), 2021
 * **Runner-up**, The National College Computer Competency Challenge, C++ Programming Competition (East China Divison)
 * **Champion**, Anhui Province Robotics Competition - Microcontroller and Embedded Systems Category, 2021
