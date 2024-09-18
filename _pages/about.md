@@ -138,6 +138,9 @@ My primary research interests encompass **social aware task plannig**, **scene u
 ======
 * **Outstanding Graduates**, 2022, HFUT
 * **Runner-up**, the 19th & 20th National College Students’ Robotics Competition ROBOMASTER 2021 Regional Tournament (Northern Region), 2020-2021 HFU
-* **Champion**, the 16th China University Robot Competition, 2017 [[link]](http://www.cnrobocon.net/#/)
-* **Best Engineering**, The ABU Asia-Pacific Robot Contest, 2017 [[link]](http://www.aburobocon.net/)
+* **Champion**, The National Undergraduate Engineering Training Competition (Anhui Province Divison), 2021
+* **Runner-up**, The National College Computer Competency Challenge, C++ Programming Competition (East China Divison)
+* **Champion**, Anhui Province Robotics Competition - Microcontroller and Embedded Systems Category, 2021
+* **Champion**, Anhui Province College IoT Application Innovation Competition, 2021
+
 
