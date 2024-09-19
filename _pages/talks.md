@@ -8,6 +8,16 @@ author_profile: true
 {% include base_path %}
 
 
+# ✨About me
+By a series of coincidences, I ended up choosing computer science as my major in college. Before that, I had never written a single line of code, let alone worked with robots. To my surprise, after just one semester, I founded that I am really good in coding. Whenever we had course projects, many classmates would ask me to team up with them. One of them invited me to join the Electronics Innovation Lab, and that’s where my jouneral on robotics begain.
+
+
+# smart trash-sorting bin
+My first 
+
+
+
+
 # Two-time RoboCon Champion
 My team and I won the championship of the RoboCon China contest in 2017 and 2018, respectively, and represented China in the Asia-Pacific event. I am mainly responsible for robot localization, control, wireless communication, and an App that can be used for robot debugging and data recording.
 

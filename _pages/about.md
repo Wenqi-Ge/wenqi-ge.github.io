@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently pursuing my M.Sc at SusTech's [RcvLab](https://rcvlab.eee.sustech.edu.cn/), under the guidance of Prof. [Hong Zhang](https://faculty.sustech.edu.cn/?tagid=zhangh33&iscss=1&snapid=1&orderby=date&go=2&lang=en). Prior to this, I earned my B's degree from the HeFei University of Technology of Computer Science and Technology.
+I am currently pursuing my M.Sc at SUSTECH's [RcvLab](https://rcvlab.eee.sustech.edu.cn/), under the guidance of Prof. [Hong Zhang](https://faculty.sustech.edu.cn/?tagid=zhangh33&iscss=1&snapid=1&orderby=date&go=2&lang=en). Prior to this, I earned my B's degree from the HeFei University of Computer Science and Technology.
 
 My primary research interests encompass **social aware task plannig**, **scene understanding for robot**, **human-robot interaction** and **robot learning**. The ultimate goal is to develop agents that can perceive, understand, and interact with the physics world with human in the same level of intelligence as human.
 
@@ -129,7 +129,7 @@ My primary research interests encompass **social aware task plannig**, **scene u
 
 
 <a href="#grasp-ros"></a>
-<h2 id="slam-map-building">Isaacsim + Ros + graspingg</h2>
+<h2 id="slam-map-building">Isaacsim + Ros + grasping</h2>
 
 <video src="../images/isaac.mp4" style="width:100%; height:auto;" controls autoplay loop muted playsinline></video>
 </html>
