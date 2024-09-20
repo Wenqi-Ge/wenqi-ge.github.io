@@ -113,10 +113,10 @@ My primary research interests encompass **social aware task plannig**, **scene u
 
 
 
-<!-- <a href="#grasp-ros"></a> -->
+
 <h2 id="grasp-ros">Isaacsim + Ros + grasping</h2>
 
-<video src="../images/isaacall.mp4" style="width:100%; height:auto;" controls autoplay loop muted playsinline></video>
+<video src="../images/isaac1.mp4" style="width:100%; height:auto;" controls autoplay loop muted playsinline></video>
 
 
 </html>
