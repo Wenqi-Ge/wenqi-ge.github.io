@@ -116,10 +116,9 @@ My primary research interests encompass **social aware task plannig**, **scene u
 <!-- <a href="#grasp-ros"></a> -->
 <h2 id="grasp-ros">Isaacsim + Ros + grasping</h2>
 
-<!-- <video src="../images/isaacall.mp4" style="width:100%; height:auto;" controls autoplay loop muted playsinline></video> -->
-<iframe src="https://youtu.be/R2Vmqb0JUI4?si=AUenuDrJC-lqnkl1" 
-   frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
-</iframe>
+<video src="../images/isaacall.mp4" style="width:100%; height:auto;" controls autoplay loop muted playsinline></video>
+
+
 </html>
 
 
