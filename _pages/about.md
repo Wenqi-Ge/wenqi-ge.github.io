@@ -104,7 +104,7 @@ My primary research interests encompass **social aware task plannig**, **scene u
 💡Skills
 ======
 <html>
-<a href="#slam-map-building"></a>
+<!-- <a href="#slam-map-building"></a> -->
 <h2 id="slam-map-building">SLAM + semntic mapping</h2>
 
 
@@ -113,7 +113,7 @@ My primary research interests encompass **social aware task plannig**, **scene u
 
 
 
-<a href="#grasp-ros"></a>
+<!-- <a href="#grasp-ros"></a> -->
 <h2 id="slam-map-building">Isaacsim + Ros + grasping</h2>
 
 <video src="../images/isaacall.mp4" style="width:100%; height:auto;" controls autoplay loop muted playsinline></video>

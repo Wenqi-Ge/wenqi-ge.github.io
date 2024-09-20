@@ -1,5 +1,5 @@
 ---
-title: "Autonomous Driving for Tracked Robot in Off-road Environment"
+title: "Continuous Learning for Object Search with Commonsense and users’ habits Added"
 excerpt: "In an off-road environment, the assumption of horizontal ground is usually invalid, so IMU and wheel encoders are integrated into a closed form on SE3, which can be used to correct the distortion caused by motion. In addition, [LPD-Net](https://github.com/qiaozhijian/LPD-Net-Pytorch.git) (reproduced by myself) is integrated into [LIO-SAM](https://github.com/TixiaoShan/LIO-SAM.git) to detect loop-closure with a coarse-to-fine sequence matching strategy, which helps to build a more accurate map for map-based localization. Then [PLReg3D](https://github.com/IRMVLab/PLReg3D.git) learns local and global descriptors jointly for global localization at the initial step. Finally, a loosely-coupled method based on the pose graph is applied to provide the robot with a robust and accurate pose.
 <br/>
 <img src='/images/localize.gif' width='500'>"
