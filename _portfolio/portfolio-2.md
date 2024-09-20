@@ -1,9 +1,9 @@
 ---
-title: "Tightly-coupled Visual-Inertial-Wheel Odometry for Ground Robot"
+title: "Commonsense Scene Graph-based Target Localization for Object Search"
 excerpt: "VINS has additional unobservable directions for localizing wheeled robots such as scale when a ground robot is constrained to particular motion. Furthermore, accelerometer measurements on the ground robot are greatly affected by noise compared to those on the aerial robot. For these considerations, Wheel measurements are integrated into VINS, where we reference some excellent open-source codes(such as [VIW-Fusion](https://github.com/TouchDeeper/VIW-Fusion/)) and implement wheel odometer pre-integration, residuals and extrinsic parameters calibration. On the other hand, GPU-accelerated feature extraction and optical flow methods are integrated into the system to accelerate the front end. The optimization in the back end is also improved to detect and remove(or reduce weights) the outliers of IMU and wheel pre-integrations and visual measurements. [Fast-LIO2](https://github.com/hku-mars/FAST_LIO) is also integrated based on a factor graph. Furthermore, the Sparsification for graph optimization is on the to-do list.
 <br/>
 <br/>
-<img src='/images/grass-demo.gif' width='500'>
+<img src='/images/CSG-gif.gif' width='500'>
 "
 collection: portfolio
 ---

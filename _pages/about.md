@@ -105,7 +105,7 @@ My primary research interests encompass **social aware task plannig**, **scene u
 ======
 <html>
 <a href="#slam-map-building"></a>
-<h2 id="slam-map-building">SLAM + semntic map building</h2>
+<h2 id="slam-map-building">SLAM + semntic mapping</h2>
 
 
 <img src="../images/semantic-map.gif" alt="hpp" style="border-style: none" >
@@ -116,7 +116,7 @@ My primary research interests encompass **social aware task plannig**, **scene u
 <a href="#grasp-ros"></a>
 <h2 id="slam-map-building">Isaacsim + Ros + grasping</h2>
 
-<video src="../images/isaac.mp4" style="width:100%; height:auto;" controls autoplay loop muted playsinline></video>
+<video src="../images/isaacall.mp4" style="width:100%; height:auto;" controls autoplay loop muted playsinline></video>
 </html>
 
 
