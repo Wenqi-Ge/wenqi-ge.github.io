@@ -42,6 +42,7 @@ Abstract: Task-oriented grasping (TOG) refers to the problem of predicting grasp
 
 <h1 id="work4" class="page1" >Commonsense and Physics-Aware Planning for Target Search</h1>
 
+<video src="../images/ten1.mp4" style="width:100%; height:auto;" controls autoplay loop muted playsinline></video>
 
 
 

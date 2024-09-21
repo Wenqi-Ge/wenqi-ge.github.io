@@ -13,19 +13,25 @@ By a series of coincidences, I ended up choosing computer science as my major in
 
 
 # smart trash-sorting bin
-My first 
+
+<img src="../images/c1.png" alt="hpp" style="border-style: none" >
 
 
 
 
-# Two-time RoboCon Champion
-My team and I won the championship of the RoboCon China contest in 2017 and 2018, respectively, and represented China in the Asia-Pacific event. I am mainly responsible for robot localization, control, wireless communication, and an App that can be used for robot debugging and data recording.
+# Two-time Second Prize in RoboMaster
 
-<br/>
+<!-- My team and I won the championship of the RoboCon China contest in 2017 and 2018, respectively, and represented China in the Asia-Pacific event. I am mainly responsible for robot localization, control, wireless communication, and an App that can be used for robot debugging and data recording. -->
+
+
+<img src="../images/c.png" alt="hpp" style="border-style: none" >
+
+
+<!-- <br/>
 <div align=center >
     <img src="/images/heying2.jpg" width="500"/>
-</div>
-
+</div> -->
+<!-- 
 ### RoboCon 2017
     
 <iframe src="//player.bilibili.com/player.html?aid=55401887&bvid=BV1u4411P7xp&cid=96870545&page=1" scrolling="yes" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
@@ -33,4 +39,7 @@ My team and I won the championship of the RoboCon China contest in 2017 and 2018
 ### RoboCon 2018
   
 <iframe src="//player.bilibili.com/player.html?aid=60191717&bvid=BV1Kt411J7xn&cid=104804289&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+ -->
+
+---
 
