@@ -42,4 +42,3 @@ By a series of coincidences, I ended up choosing computer science as my major in
  -->
 
 ---
-
