@@ -84,6 +84,7 @@ This work focuses on the problem of locating frequently moved objects (target ob
 <h1 id="work4" class="page1" >Commonsense and Physics-Aware Planning for Target Search</h1>
 
 <a  target="_blank" class="custom-link arxiv">Writing for RAL</a>
+<a  target="_blank" class="custom-link arxiv">Intern project in Tecent RoboticsX</a>
 
 
 <p>
