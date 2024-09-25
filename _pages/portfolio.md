@@ -108,7 +108,7 @@ Developed a framework that enables robots to perform user-friendly path planning
 
 
 <h1 id="work6" class="page1" >Just a funny demo for a model of dexterous grasping with tactile</h1>
-<a  target="_blank" class="custom-link arxiv">Master thesis</a>
+<a  target="_blank" class="custom-link arxiv">Intern collaboration</a>
 
 <p>
 Our judge to it be like: It is not robotic, it is drama trick
