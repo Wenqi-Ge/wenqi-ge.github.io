@@ -58,7 +58,6 @@ Abstract: Task-oriented grasping (TOG) refers to the problem of predicting grasp
 <img src="../images/qualitative_results_3.jpg" alt="hpp" style="border-style: none" >
 
 <br><br>
-<br><br>
 
 
 <h1 id="work2" class="page1" >Commonsense Scene Graph-based Target Localization for Obj Search</h1>
@@ -73,7 +72,6 @@ This work focuses on the problem of locating frequently moved objects (target ob
 
 <img src="../images/sec-11-min.png" alt="hpp" style="border-style: none" >
 
-<br><br>
 <br><br>
 
 
@@ -94,8 +92,6 @@ Formulated the object search problem as a POMDP and developed a pipeline that le
 <video src="../images/t11.mp4" style="width:100%; height:auto;" controls autoplay loop muted playsinline></video>
 
 
-
-<br><br>
 <br><br>
 
 
@@ -108,6 +104,16 @@ Developed a framework that enables robots to perform user-friendly path planning
 
 <video src="../images/nav-ma.mp4" style="width:100%; height:auto;" controls autoplay loop muted playsinline></video>
 
+<br><br>
 
+
+<h1 id="work6" class="page1" >Just a funny demo for a model of dexterous grasping with tactile</h1>
+<a  target="_blank" class="custom-link arxiv">Master thesis</a>
+
+<p>
+Our judge to it be like: It is not robotic, it is drama trick
+</p>
+
+<img src="../images/tt1.gif" alt="hpp" style="border-style: none" >
 
 </html>
