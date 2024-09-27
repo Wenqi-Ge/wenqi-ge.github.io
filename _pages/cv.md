@@ -9,6 +9,10 @@ redirect_from:
 
 {% include base_path %}
 
+
+<iframe src="../images/CV_wenqiGe.pdf" width="120%" height="1200px"></iframe>
+
+<!-- 
 # Education
 ======
 * B.S. in GitHub, GitHub University, 2012
@@ -55,4 +59,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Currently signed in to 43 different slack teams -->
