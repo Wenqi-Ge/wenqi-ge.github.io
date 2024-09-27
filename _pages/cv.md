@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 
 
-<iframe src="../images/CV_wenqiGe.pdf" width="120%" height="1200px"></iframe>
+<iframe src="../images/CV_wenqiGe.pdf" width="100%" height="1200px"></iframe>
 
 <!-- 
 # Education
