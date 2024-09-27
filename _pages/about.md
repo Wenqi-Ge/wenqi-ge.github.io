@@ -101,9 +101,17 @@ My primary research interests encompass **social aware task plannig**, **scene u
 </html>
 
 
-💡Developed System:w
+💡Developed System:
 ======
 <html>
+  <style>
+    .fancy-text {
+      font-size: 25px !important; /* Make the font size larger */
+      font-family: Arial, sans-serif; /* Optional: Set the font family */
+      color: #220b8d; /* Optional: Change the text color */
+    }
+
+  </style>
 <!-- <a href="#slam-map-building"></a> -->
 <h2 id="slam-map-building">SLAM + semntic mapping</h2>
 
@@ -119,7 +127,16 @@ My primary research interests encompass **social aware task plannig**, **scene u
 <video src="../images/isaac1.mp4" style="width:100%; height:auto;" controls autoplay loop muted playsinline></video>
 
 
+<br><br>
+
+  <p class="fancy-text">
+    For more fancy ongoing works with demo, please have a look at
+    <a href="https://wenqi-ge.github.io/portfolio/" target="_blank">my projects</a>.
+  </p>
+
 </html>
+
+
 
 
 
