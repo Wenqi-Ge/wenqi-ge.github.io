@@ -50,7 +50,7 @@ h1.page1 {
 
 <h1 id="work1" class="page1" >Task Oriented Grasp (TOG) Generation generalized by LLM</h1>
 <a href="https://arxiv.org/abs/2404.00343" target="_blank" class="custom-link arxiv">RAL2023: Pdf</a>
-<a href="https://sites.google.com/view/csg-os"  target="_blank" class="custom-link web">site</a>
+<a href="https://sites.google.com/view/graspgpt/"  target="_blank" class="custom-link web">site</a>
 <a href="https://www.youtube.com/watch?v=W_fRpC8F86Y" target="_blank" class="custom-link video">video</a>
 <p>
 Abstract: Task-oriented grasping (TOG) refers to the problem of predicting grasps on an object that enable subsequent manipulation tasks. To model the complex relationships between objects, tasks, and grasps, existing methods incorporate semantic knowledge as priors into TOG pipelines. However, the existing semantic knowledge is typically constructed based on closed-world concept sets, restraining the generalization to novel concepts out of the pre-defined sets. To address this issue, we propose GraspGPT, a large language model (LLM) based TOG framework that leverages the open-end semantic knowledge from an LLM to achieve zero-shot generalization to novel concepts. We conduct experiments on Language Augmented TaskGrasp (LA-TaskGrasp) dataset and demonstrate that GraspGPT outperforms existing TOG methods on different held-out settings when generalizing to novel concepts out of the training set. The effectiveness of GraspGPT is further validated in real-robot experiments. 
@@ -99,10 +99,11 @@ Formulated the object search problem as a POMDP and developed a pipeline that le
 <a  target="_blank" class="custom-link arxiv">Master thesis</a>
 
 <p>
-Developed a framework that enables robots to perform user-friendly path planning by considering human intentions. For instance, when a person is watching TV, the robot plans to avoid the area between the user and the TV to minimize disruptions and respect the user’s activities. Built upon an existing RL framework for social navigation by adding a scene understanding module that maps human-environment interactions through feature maps and LLM-generated descriptions, enabling human intention-aware robot navigation.
+Developed a framework that enables robots to perform user-friendly path planning by considering human intentions. For instance, when a person is watching TV, the robot plans to avoid the area between the user and the TV to minimize disruptions and respect the user’s activities.
 </p>
 
 <video src="../images/nav-ma.mp4" style="width:100%; height:auto;" controls autoplay loop muted playsinline></video>
+<img src="../images/hia-nav.png" alt="hpp" style="border-style: none" >
 
 <br><br>
 
