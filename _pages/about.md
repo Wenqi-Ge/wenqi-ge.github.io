@@ -21,7 +21,7 @@ Education
   - Department of Data and Systems Engineering
 - M.S., Southern University of Science and Technology, 2022-2025
   - Electronic Science and Technology
-- B.S., Hefei University of Technology, 2028-2022
+- B.S., Hefei University of Technology, 2018-2022
   - Computer Science and Technology
   - Outstanding Graduate
 
