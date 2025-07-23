@@ -107,13 +107,13 @@ Developed a framework that enables robots to perform user-friendly path planning
 <br><br>
 
 
-<h1 id="work6" class="page1" >Just a funny demo for a model of dexterous grasping with tactile</h1>
+<!-- <h1 id="work6" class="page1" >Just a funny demo for a model of dexterous grasping with tactile</h1> -->
 <!-- <a  target="_blank" class="custom-link arxiv">Intern collaboration</a> -->
 
-<p>
+<!-- <p>
 Our judge to it be like: It is not robotic, it is drama trick
 </p>
 
-<img src="../images/tt1.gif" alt="hpp" style="border-style: none" >
+<img src="../images/tt1.gif" alt="hpp" style="border-style: none" > -->
 
 </html>

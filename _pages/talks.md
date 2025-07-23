@@ -8,13 +8,13 @@ author_profile: true
 {% include base_path %}
 
 
-# ✨About me
+# About me
 By a series of coincidences, I ended up choosing computer science as my major in college. Before that, I had never written a single line of code, let alone worked with robots. To my surprise, after just one semester, I founded that I am really good in coding. Whenever we had course projects, many classmates would ask me to team up with them. One of them invited me to join the Electronics Innovation Lab, and that’s where my jouneral on robotics begain.
 
-
+<!-- 
 # smart trash-sorting bin
 
-<img src="../images/c1.png" alt="hpp" style="border-style: none" >
+<img src="../images/c1.png" alt="hpp" style="border-style: none" > -->
 
 
 

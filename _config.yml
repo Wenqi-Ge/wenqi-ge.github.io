@@ -10,7 +10,7 @@ locale: "en-US"
 title: "Wenqi's Website"
 title_separator: "-"
 name: &name "Wenqi Ge"
-description: &description "M.Sc. student in SUSTECH"
+description: &description "Incoming Ph.D. student in HKU, Intern at LimX"
 url: https://wenqi-ge.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl: "" # the subpath of your site, e.g. "/blog"
 repository: "Wenqi-Ge/wenqi-ge.github.io"
@@ -84,11 +84,11 @@ analytics:
 author:
   name: "Wenqi Ge"
   avatar: "opt1.png"
-  bio: "M.Sc. student in SusTech"
+  bio: "Incoming Ph.D. student in HKU, Intern at LimX"
   location: "Shenzhen, China"
   employer:
   pubmed:
-  googlescholar:
+  googlescholar: "https://scholar.google.com/citations?user=04tMiosAAAAJ&hl=zh-CN"
   email: "12232112@mail.sustech.edu.cn"
   researchgate:
   uri:
