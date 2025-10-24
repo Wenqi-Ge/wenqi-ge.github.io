@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I will pursue my Ph.D. at HKU's [Agentic Intelligence Lab](https://agentic-intelligence-lab.org/), under the guidance of Prof. [Jiayu CHEN](https://www.dase.hku.hk/people/j-y-chen). Currently, I am an intern at LimX Dynamics, focusing on reinforcement learning for humanoid whole-body control.
+I am a PhD student at HKU's [Agentic Intelligence Lab](https://agentic-intelligence-lab.org/), under the guidance of Prof. [Jiayu CHEN](https://www.dase.hku.hk/people/j-y-chen). Currently, I am an intern at LimX Dynamics, focusing on reinforcement learning for humanoid whole-body control.
 
 <!-- Prior to this, I earned my Master’s degree from the RCV Lab at Southern University of Science and Technology, where I was mentored by Prof. Hong ZHANG. -->
 
