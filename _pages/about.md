@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD student at HKU's [Agentic Intelligence Lab](https://agentic-intelligence-lab.org/), under the guidance of Prof. [Jiayu CHEN](https://www.dase.hku.hk/people/j-y-chen). Currently, I am an intern at LimX Dynamics, focusing on reinforcement learning for humanoid whole-body control.
+I am a PhD student at HKU's [Agentic Intelligence Lab](https://agentic-intelligence-lab.org/), under the guidance of Prof. [Jiayu CHEN](https://www.dase.hku.hk/people/j-y-chen). My research began with humanoid whole-body control and is now expanding toward real-world humanoid foundation models and post-training. Currently, I am an intern at LimX Dynamics, where I work on humanoid VLA deployment and explore how human-egocentric and humanoid data can be used for reward modeling and real-world RL for humanoid robots.
 
 <!-- Prior to this, I earned my Master’s degree from the RCV Lab at Southern University of Science and Technology, where I was mentored by Prof. Hong ZHANG. -->
 
@@ -17,7 +17,7 @@ I am a PhD student at HKU's [Agentic Intelligence Lab](https://agentic-intellige
   
 Education
 ======
-- Ph.D., Hong Kong University, 2025-present
+- Ph.D., The University of Hong Kong, 2025-present
   - Department of Data and Systems Engineering
 - M.S., Southern University of Science and Technology, 2022-2025
   - Electronic Science and Technology
@@ -28,7 +28,7 @@ Education
 
 Internship
 ======
-- LimX Dynamics, Reinforcement Learning for Humanoids, Apr. 2025 – Present
+- LimX Dynamics, Humanoid Whole-Body Control and Foundation Model Post-Training, Apr. 2025 – Present
 - Tencent Robotics X, LLM-guided Robotic Manipulation, Mar. 2024 – Aug. 2024
 
 Selected Honors

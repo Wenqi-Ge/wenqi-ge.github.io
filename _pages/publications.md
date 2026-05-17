@@ -52,6 +52,39 @@ author_profile: true
 <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
   <tr onmouseout="nightsight_stop()" onmouseover="nightsight_start()">
     <td style="padding:10px;width:40%;vertical-align:middle;border-left-style:none;border-bottom-style:none;border-top-style:none;border-right-style:none">
+      <img src="../images/composite.drawio_v2.png" alt="cwi" style="border-style: none">
+    </td>
+    <td style="padding:20px;width:75%;vertical-align:middle;border-left-style:none;border-bottom-style:none;border-top-style:none;border-right-style:none">
+      <papertitle>CWI: Composite Humanoid Whole-Body Imitation System for Loco-manipulation</papertitle>
+      <br>
+      <strong>Wenqi Ge</strong>, Junde Guo, Zhen Fu, et al.
+      <br>
+      <em>Submitted to IEEE Robotics and Automation Letters (RAL), under revise and resubmit</em>
+    </td>
+  </tr>
+</table>
+
+
+<table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
+  <tr onmouseout="nightsight_stop()" onmouseover="nightsight_start()">
+    <td style="padding:10px;width:40%;vertical-align:middle;border-left-style:none;border-bottom-style:none;border-top-style:none;border-right-style:none">
+      <img src="../images/pami25.png" alt="bfm-survey" style="border-style: none">
+    </td>
+    <td style="padding:20px;width:75%;vertical-align:middle;border-left-style:none;border-bottom-style:none;border-top-style:none;border-right-style:none">
+      <papertitle>A Survey of Behavior Foundation Model: Next-Generation Whole-Body Control System of Humanoid Robots</papertitle>
+      <br>
+      Mingqi Yuan, Tao Yu, <strong>Wenqi Ge</strong>, Xiuyong Yao, Dapeng Li, Huijiang Wang, Jiayu Chen, Bo Li, Wei Zhang, Wenjun Zeng, Hua Chen, Xin Jin
+      <br>
+      <em>Published in 2026 IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)</em><br>
+      <a href="https://ieeexplore.ieee.org/abstract/document/11319214/" target="_blank" class="custom-link arxiv">paper</a>
+    </td>
+  </tr>
+</table>
+
+
+<table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
+  <tr onmouseout="nightsight_stop()" onmouseover="nightsight_start()">
+    <td style="padding:10px;width:40%;vertical-align:middle;border-left-style:none;border-bottom-style:none;border-top-style:none;border-right-style:none">
       <img src="../images/graspGPT.gif" alt="hpp" style="border-style: none">
     </td>
     <td style="padding:20px;width:75%;vertical-align:middle;border-left-style:none;border-bottom-style:none;border-top-style:none;border-right-style:none">

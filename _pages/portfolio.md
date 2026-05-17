@@ -48,16 +48,77 @@ h1.page1 {
 
 </style>
 
-<h1 id="work1" class="page1" >Task Oriented Grasp (TOG) Generation generalized by LLM</h1>
-<a href="https://arxiv.org/abs/2404.00343" target="_blank" class="custom-link arxiv">RAL2023: Pdf</a>
-<a href="https://sites.google.com/view/csg-os"  target="_blank" class="custom-link web">site</a>
-<a href="https://www.youtube.com/watch?v=W_fRpC8F86Y" target="_blank" class="custom-link video">video</a>
+<h1 id="work-realrl-perception" class="page1" >Real-World RL for Humanoid Active Locomotion</h1>
+<a  target="_blank" class="custom-link arxiv"><em>Feb. 2026 &ndash; Apr. 2026</em></a>
+<a  target="_blank" class="custom-link web">Internal validation project</a>
+
 <p>
-Abstract: Task-oriented grasping (TOG) refers to the problem of predicting grasps on an object that enable subsequent manipulation tasks. To model the complex relationships between objects, tasks, and grasps, existing methods incorporate semantic knowledge as priors into TOG pipelines. However, the existing semantic knowledge is typically constructed based on closed-world concept sets, restraining the generalization to novel concepts out of the pre-defined sets. To address this issue, we propose GraspGPT, a large language model (LLM) based TOG framework that leverages the open-end semantic knowledge from an LLM to achieve zero-shot generalization to novel concepts. We conduct experiments on Language Augmented TaskGrasp (LA-TaskGrasp) dataset and demonstrate that GraspGPT outperforms existing TOG methods on different held-out settings when generalizing to novel concepts out of the training set. The effectiveness of GraspGPT is further validated in real-robot experiments. 
+Built a reusable real-robot RL validation framework for humanoid active locomotion, aiming to support future real-world RL researchs on humanoid platforms. The system combines my designed task-oriented visual tokens, behavior cloning from only 20 teleoperated demonstrations, and a progress-model-based dense reward to drive residual RL. With about 30 minutes of online fine-tuning including reset time, the residual policy quickly improved the locomotion behavior beyond the BC baseline, increasing the success rate from 10/19 to 18/19 and reducing the average completion time from 5.12s to 3.94s.
 </p>
-<img src="../images/qualitative_results_3.jpg" alt="hpp" style="border-style: none" >
+
+<video src="../images/loco-rwrl.mp4" style="width:100%; height:auto;" controls autoplay loop muted playsinline></video>
+
+<br>
+
+
+<h1 id="work-vla-oli" class="page1" >VLA Foundation Model Deployment on LimX Oli Humanoid</h1>
+<a  target="_blank" class="custom-link arxiv"><em>Apr. 2025 &ndash; Present</em></a>
+<a  target="_blank" class="custom-link web">Internal demo at LimX, no public release</a>
+
+<p>
+Hands-on with the full humanoid VLA pipeline — participated across data collection, data processing, training, and on-robot deployment.
+</p>
+
+<ul>
+  <li>Participated across the full data pipeline on the 31-DoF LimX Oli humanoid — teleoperation-based collection, plus data processing — producing bimanual whole-body demonstrations used for VLA post-training.</li>
+  <li>Hands-on training and on-robot deployment of NVIDIA <strong>GR00T</strong> and Physical Intelligence <strong>&pi;<sub>0.5</sub></strong> on LimX Oli, covering model porting, inference-stack setup, and zero-shot / fine-tuned evaluation in loco-manipulation scenarios.</li>
+</ul>
+
+<br>
+
+
+<h1 id="work-cwi" class="page1" >CWI: Composite Humanoid Whole-Body Imitation System for Loco-manipulation</h1>
+<a  target="_blank" class="custom-link arxiv">Submitted to RAL, under revise and resubmit</a>
+
+<p>
+A simple, stable whole-body controller for humanoid loco-manipulation. CWI decouples lower-body locomotion from upper-body tracking: a small curated set of expert walking / squatting clips guides locomotion via dual discriminators (AMP), while the upper body directly tracks bimanual MoCap. A multi-critic and teacher–student distillation stage produce a deployable policy driven by only hand poses and velocity/height commands. The design keeps the pipeline compact and works well at lab-scale data volume, which makes it practical to iterate on with the data we actually had.
+</p>
+
+<video src="../images/cmi-video.mp4" style="width:100%; height:auto;" controls autoplay loop muted playsinline></video>
 
 <br><br>
+
+
+<h1 id="work5" class="page1" >Human Intention Aware Robot Navigation with LLM-Adapted RL</h1>
+<a  target="_blank" class="custom-link arxiv">Master thesis</a>
+
+<p>
+Developed a framework that enables robots to perform user-friendly path planning by considering human intentions. For instance, when a person is watching TV, the robot plans to avoid the area between the user and the TV to minimize disruptions and respect the user’s activities. Built upon an existing RL framework for social navigation by adding a scene understanding module that maps human-environment interactions through feature maps and LLM-generated descriptions, enabling human intention-aware robot navigation.
+</p>
+
+<video src="../images/nav-ma.mp4" style="width:100%; height:auto;" controls autoplay loop muted playsinline></video>
+
+<br><br>
+
+
+<h1 id="work4" class="page1" >Commonsense and Physics-Aware Planning for Target Search</h1>
+
+<!-- <a  target="_blank" class="custom-link arxiv">Writing for RAL</a> -->
+<a  target="_blank" class="custom-link arxiv">Intern project in Tecent RoboticsX</a>
+
+
+<p>
+Formulated the object search problem as a POMDP and developed a pipeline that leverages VLMs to propose object likely locations, using physics-based simulations to evaluate the feasibility of these proposals. Designed realistic scenes in IsaacSim with diverse daily objects, evaluating the framework’s performance in both simulation and real-world experiments to demonstrate its effectiveness.
+</p>
+
+<video src="../images/t11.mp4" style="width:100%; height:auto;" controls autoplay loop muted playsinline></video>
+
+
+<br><br>
+
+
+<!-- <h1 id="work3" class="page1" >Continual Learning for Obj Search with Commonsense and User Habits</h1> -->
+
 
 
 <h1 id="work2" class="page1" >Commonsense Scene Graph-based Target Localization for Obj Search</h1>
@@ -75,34 +136,14 @@ This work focuses on the problem of locating frequently moved objects (target ob
 <br><br>
 
 
-<!-- <h1 id="work3" class="page1" >Continual Learning for Obj Search with Commonsense and User Habits</h1> -->
-
-
-
-<h1 id="work4" class="page1" >Commonsense and Physics-Aware Planning for Target Search</h1>
-
-<a  target="_blank" class="custom-link arxiv">Writing for RAL</a>
-<a  target="_blank" class="custom-link arxiv">Intern project in Tecent RoboticsX</a>
-
-
+<h1 id="work1" class="page1" >Task Oriented Grasp (TOG) Generation generalized by LLM</h1>
+<a href="https://arxiv.org/abs/2404.00343" target="_blank" class="custom-link arxiv">RAL2023: Pdf</a>
+<a href="https://sites.google.com/view/csg-os"  target="_blank" class="custom-link web">site</a>
+<a href="https://www.youtube.com/watch?v=W_fRpC8F86Y" target="_blank" class="custom-link video">video</a>
 <p>
-Formulated the object search problem as a POMDP and developed a pipeline that leverages VLMs to propose object likely locations, using physics-based simulations to evaluate the feasibility of these proposals. Designed realistic scenes in IsaacSim with diverse daily objects, evaluating the framework’s performance in both simulation and real-world experiments to demonstrate its effectiveness.
+Abstract: Task-oriented grasping (TOG) refers to the problem of predicting grasps on an object that enable subsequent manipulation tasks. To model the complex relationships between objects, tasks, and grasps, existing methods incorporate semantic knowledge as priors into TOG pipelines. However, the existing semantic knowledge is typically constructed based on closed-world concept sets, restraining the generalization to novel concepts out of the pre-defined sets. To address this issue, we propose GraspGPT, a large language model (LLM) based TOG framework that leverages the open-end semantic knowledge from an LLM to achieve zero-shot generalization to novel concepts. We conduct experiments on Language Augmented TaskGrasp (LA-TaskGrasp) dataset and demonstrate that GraspGPT outperforms existing TOG methods on different held-out settings when generalizing to novel concepts out of the training set. The effectiveness of GraspGPT is further validated in real-robot experiments. 
 </p>
-
-<video src="../images/t11.mp4" style="width:100%; height:auto;" controls autoplay loop muted playsinline></video>
-
-
-<br><br>
-
-
-<h1 id="work5" class="page1" >Human Intention Aware Robot Navigation with LLM-Adapted RL</h1>
-<a  target="_blank" class="custom-link arxiv">Master thesis</a>
-
-<p>
-Developed a framework that enables robots to perform user-friendly path planning by considering human intentions. For instance, when a person is watching TV, the robot plans to avoid the area between the user and the TV to minimize disruptions and respect the user’s activities. Built upon an existing RL framework for social navigation by adding a scene understanding module that maps human-environment interactions through feature maps and LLM-generated descriptions, enabling human intention-aware robot navigation.
-</p>
-
-<video src="../images/nav-ma.mp4" style="width:100%; height:auto;" controls autoplay loop muted playsinline></video>
+<img src="../images/qualitative_results_3.jpg" alt="hpp" style="border-style: none" >
 
 <br><br>
 
