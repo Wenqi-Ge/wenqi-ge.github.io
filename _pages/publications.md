@@ -59,7 +59,7 @@ author_profile: true
       <br>
       <strong>Wenqi Ge</strong>, Junde Guo, Zhen Fu, et al.
       <br>
-      <em>Submitted to IEEE Robotics and Automation Letters (RAL), under revise and resubmit</em>
+      <em>Accepted by IEEE Robotics and Automation Letters (RAL)</em>
     </td>
   </tr>
 </table>
@@ -82,26 +82,6 @@ author_profile: true
 </table>
 
 
-<table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
-  <tr onmouseout="nightsight_stop()" onmouseover="nightsight_start()">
-    <td style="padding:10px;width:40%;vertical-align:middle;border-left-style:none;border-bottom-style:none;border-top-style:none;border-right-style:none">
-      <img src="../images/graspGPT.gif" alt="hpp" style="border-style: none">
-    </td>
-    <td style="padding:20px;width:75%;vertical-align:middle;border-left-style:none;border-bottom-style:none;border-top-style:none;border-right-style:none">
-      <papertitle>GraspGPT: Leveraging Semantic Knowledge from a Large Language Model for Task-Oriented Grasping</papertitle>
-      <br>
-      Chao Tang, Dehao Huang, <strong>Wenqi Ge</strong>, Weiyu Liu, Hong Zhang
-      <br>
-      <em>Published in 2023 IEEE Robotics and Automation Letters (RAL)</em><br>
-      <a href="https://arxiv.org/abs/2307.13204" target="_blank" class="custom-link arxiv">arxiv</a>
-      <a href="https://sites.google.com/view/graspgpt/"  target="_blank" class="custom-link web">site</a>
-      <a href="https://www.youtube.com/watch?v=qq0DMdHRw1E" target="_blank" class="custom-link video">video</a>
-    </td>
-  </tr>
-</table>
-
-
-
   <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
         <tr onmouseout="nightsight_stop()" onmouseover="nightsight_start()">
           <td style="padding:10px;width:40%;vertical-align:middle;border-left-style:none;border-bottom-style:none;border-top-style:none;border-right-style:none">
@@ -119,5 +99,24 @@ author_profile: true
           </td>
         </tr>
   </table>
+
+
+<table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
+  <tr onmouseout="nightsight_stop()" onmouseover="nightsight_start()">
+    <td style="padding:10px;width:40%;vertical-align:middle;border-left-style:none;border-bottom-style:none;border-top-style:none;border-right-style:none">
+      <img src="../images/graspGPT.gif" alt="hpp" style="border-style: none">
+    </td>
+    <td style="padding:20px;width:75%;vertical-align:middle;border-left-style:none;border-bottom-style:none;border-top-style:none;border-right-style:none">
+      <papertitle>GraspGPT: Leveraging Semantic Knowledge from a Large Language Model for Task-Oriented Grasping</papertitle>
+      <br>
+      Chao Tang, Dehao Huang, <strong>Wenqi Ge</strong>, Weiyu Liu, Hong Zhang
+      <br>
+      <em>Published in 2023 IEEE Robotics and Automation Letters (RAL)</em><br>
+      <a href="https://arxiv.org/abs/2307.13204" target="_blank" class="custom-link arxiv">arxiv</a>
+      <a href="https://sites.google.com/view/graspgpt/"  target="_blank" class="custom-link web">site</a>
+      <a href="https://www.youtube.com/watch?v=qq0DMdHRw1E" target="_blank" class="custom-link video">video</a>
+    </td>
+  </tr>
+</table>
 
 </html>

@@ -61,24 +61,8 @@ Built a reusable real-robot RL validation framework for humanoid active locomoti
 <br>
 
 
-<h1 id="work-vla-oli" class="page1" >VLA Foundation Model Deployment on LimX Oli Humanoid</h1>
-<a  target="_blank" class="custom-link arxiv"><em>Apr. 2025 &ndash; Present</em></a>
-<a  target="_blank" class="custom-link web">Internal demo at LimX, no public release</a>
-
-<p>
-Hands-on with the full humanoid VLA pipeline — participated across data collection, data processing, training, and on-robot deployment.
-</p>
-
-<ul>
-  <li>Participated across the full data pipeline on the 31-DoF LimX Oli humanoid — teleoperation-based collection, plus data processing — producing bimanual whole-body demonstrations used for VLA post-training.</li>
-  <li>Hands-on training and on-robot deployment of NVIDIA <strong>GR00T</strong> and Physical Intelligence <strong>&pi;<sub>0.5</sub></strong> on LimX Oli, covering model porting, inference-stack setup, and zero-shot / fine-tuned evaluation in loco-manipulation scenarios.</li>
-</ul>
-
-<br>
-
-
 <h1 id="work-cwi" class="page1" >CWI: Composite Humanoid Whole-Body Imitation System for Loco-manipulation</h1>
-<a  target="_blank" class="custom-link arxiv">Submitted to RAL, under revise and resubmit</a>
+<a  target="_blank" class="custom-link arxiv">Accepted by RAL</a>
 
 <p>
 A simple, stable whole-body controller for humanoid loco-manipulation. CWI decouples lower-body locomotion from upper-body tracking: a small curated set of expert walking / squatting clips guides locomotion via dual discriminators (AMP), while the upper body directly tracks bimanual MoCap. A multi-critic and teacher–student distillation stage produce a deployable policy driven by only hand poses and velocity/height commands. The design keeps the pipeline compact and works well at lab-scale data volume, which makes it practical to iterate on with the data we actually had.
