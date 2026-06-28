@@ -63,6 +63,7 @@ Built a reusable real-robot RL validation framework for humanoid active locomoti
 
 <h1 id="work-cwi" class="page1" >CWI: Composite Humanoid Whole-Body Imitation System for Loco-manipulation</h1>
 <a  target="_blank" class="custom-link arxiv">Accepted by RAL</a>
+<a href="https://cwi-ral.github.io/CWI-RAL-Webpage/" target="_blank" class="custom-link web">site</a>
 
 <p>
 A simple, stable whole-body controller for humanoid loco-manipulation. CWI decouples lower-body locomotion from upper-body tracking: a small curated set of expert walking / squatting clips guides locomotion via dual discriminators (AMP), while the upper body directly tracks bimanual MoCap. A multi-critic and teacher–student distillation stage produce a deployable policy driven by only hand poses and velocity/height commands. The design keeps the pipeline compact and works well at lab-scale data volume, which makes it practical to iterate on with the data we actually had.
