@@ -60,6 +60,7 @@ author_profile: true
       <strong>Wenqi Ge</strong>, Junde Guo, Zhen Fu, et al.
       <br>
       <em>Accepted by IEEE Robotics and Automation Letters (RAL)</em><br>
+      <a href="https://arxiv.org/abs/2606.27676" target="_blank" class="custom-link arxiv">arxiv</a>
       <a href="https://cwi-ral.github.io/CWI-RAL-Webpage/" target="_blank" class="custom-link web">site</a>
     </td>
   </tr>
