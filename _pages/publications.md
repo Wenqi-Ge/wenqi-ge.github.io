@@ -57,9 +57,10 @@ author_profile: true
     <td style="padding:20px;width:75%;vertical-align:middle;border-left-style:none;border-bottom-style:none;border-top-style:none;border-right-style:none">
       <papertitle>CWI: Composite Humanoid Whole-Body Imitation System for Loco-manipulation</papertitle>
       <br>
-      <strong>Wenqi Ge</strong>, Junde Guo, Zhen Fu, et al.
+      <strong>Wenqi GE</strong>, Junde Guo, Zhen Fu, et al.
       <br>
       <em>Accepted by IEEE Robotics and Automation Letters (RAL)</em><br>
+      <a href="https://ieeexplore.ieee.org/abstract/document/11595502" target="_blank" class="custom-link">IEEE Xplore</a>
       <a href="https://arxiv.org/abs/2606.27676" target="_blank" class="custom-link arxiv">arxiv</a>
       <a href="https://cwi-ral.github.io/CWI-RAL-Webpage/" target="_blank" class="custom-link web">site</a>
     </td>
@@ -75,7 +76,7 @@ author_profile: true
     <td style="padding:20px;width:75%;vertical-align:middle;border-left-style:none;border-bottom-style:none;border-top-style:none;border-right-style:none">
       <papertitle>A Survey of Behavior Foundation Model: Next-Generation Whole-Body Control System of Humanoid Robots</papertitle>
       <br>
-      Mingqi Yuan, Tao Yu, <strong>Wenqi Ge</strong>, Xiuyong Yao, Dapeng Li, Huijiang Wang, Jiayu Chen, Bo Li, Wei Zhang, Wenjun Zeng, Hua Chen, Xin Jin
+      Mingqi Yuan, Tao Yu, <strong>Wenqi GE</strong>, Xiuyong Yao, Dapeng Li, Huijiang Wang, Jiayu Chen, Bo Li, Wei Zhang, Wenjun Zeng, Hua Chen, Xin Jin
       <br>
       <em>Published in 2026 IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)</em><br>
       <a href="https://ieeexplore.ieee.org/abstract/document/11319214/" target="_blank" class="custom-link arxiv">paper</a>
@@ -92,7 +93,7 @@ author_profile: true
           <td style="padding:20px;width:75%;vertical-align:middle;border-left-style:none;border-bottom-style:none;border-top-style:none;border-right-style:none">
               <papertitle>Commonsense Scene Graph-based Target Localization for Object Search</papertitle>
             <br>
-              <strong>Wenqi Ge</strong>, Chao Tang, Hong Zhang
+              <strong>Wenqi GE</strong>, Chao Tang, Hong Zhang
             <br>
             <em>Accepted by as <strong>Oral</strong> in 2024 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)</em><br>
             <a href="https://arxiv.org/abs/2404.00343" target="_blank" class="custom-link arxiv">arxiv</a>
@@ -111,7 +112,7 @@ author_profile: true
     <td style="padding:20px;width:75%;vertical-align:middle;border-left-style:none;border-bottom-style:none;border-top-style:none;border-right-style:none">
       <papertitle>GraspGPT: Leveraging Semantic Knowledge from a Large Language Model for Task-Oriented Grasping</papertitle>
       <br>
-      Chao Tang, Dehao Huang, <strong>Wenqi Ge</strong>, Weiyu Liu, Hong Zhang
+      Chao Tang, Dehao Huang, <strong>Wenqi GE</strong>, Weiyu Liu, Hong Zhang
       <br>
       <em>Published in 2023 IEEE Robotics and Automation Letters (RAL)</em><br>
       <a href="https://arxiv.org/abs/2307.13204" target="_blank" class="custom-link arxiv">arxiv</a>

@@ -9,7 +9,7 @@
 locale: "en-US"
 title: "Wenqi's Website"
 title_separator: "-"
-name: &name "Wenqi Ge"
+name: &name "Wenqi GE"
 description: &description "Incoming Ph.D. student in HKU, Intern at LimX"
 url: https://wenqi-ge.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl: "" # the subpath of your site, e.g. "/blog"
@@ -82,7 +82,7 @@ analytics:
 
 # Site Author
 author:
-  name: "Wenqi Ge"
+  name: "Wenqi GE"
   avatar: "opt1.png"
   bio: "Ph.D. student in HKU, Intern at LimX"
   location: "Hong Kong"

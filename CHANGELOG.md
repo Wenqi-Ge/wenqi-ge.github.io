@@ -1,3 +1,17 @@
+## [Unreleased] - 2026-08-30
+
+### Features
+
+- Add a template-inspired academic homepage layout for Wenqi Ge with responsive profile, news, publications, experience, and honors sections.
+
+### Design Rationale
+
+- Keep the centered, image-led academic presentation and orange accent language from `academic-homepage-template` while retaining the site's real content and default mouse behavior.
+
+### Notes & Caveats
+
+- The new homepage uses a dedicated `homepage` layout; other Jekyll pages retain their existing layout.
+
 ## [3.4.2](https://github.com/mmistakes/minimal-mistakes/releases/tag/3.4.2)
 
 ### Enhancements

@@ -1,0 +1,67 @@
+---
+---
+{% include base_path %}
+<!doctype html>
+<html lang="{{ site.locale | slice: 0,2 }}">
+  <head>
+    {% include head.html %}
+    <link rel="stylesheet" href="{{ base_path }}/assets/css/homepage.css">
+  </head>
+  <body class="homepage">
+    <nav class="section-nav" aria-label="Page sections">
+      <a href="#about">About</a>
+      <a href="#news">News</a>
+      <a href="#publications">Publications</a>
+      <a href="#experience">Experience</a>
+      <a href="#awards">Honors</a>
+    </nav>
+
+    <main class="homepage-shell">
+      <section id="about" class="profile-section page-section">
+        <div class="profile-copy">
+          <h1>{{ site.author.name }} <span class="name-divider">|</span> <span class="name-cn">葛文琪</span></h1>
+          <p>I am a Ph.D. student at HKU's <a href="https://agentic-intelligence-lab.org/">Agentic Intelligence Lab</a>, under the guidance of Prof. <a href="https://www.dase.hku.hk/people/j-y-chen">Jiayu CHEN</a>.</p>
+          <p>My research began with humanoid whole-body control and now centers on real-world humanoid reinforcement learning. I am currently an intern at LimX Dynamics, where I explore human-egocentric and humanoid data for reward modeling and real-world RL.</p>
+          <div class="profile-rule"></div>
+          <div class="contact-links" aria-label="Contact links">
+            <a href="mailto:{{ site.author.email }}" title="Email Wenqi"><svg class="link-icon" viewBox="0 0 24 24" aria-hidden="true"><rect x="3" y="5" width="18" height="14" rx="2"></rect><path d="m3 7 9 6 9-6"></path></svg><span class="link-label">Email</span><span>{{ site.author.email }}</span></a>
+            <a href="https://scholar.google.com/citations?user=04tMiosAAAAJ&amp;hl=zh-CN" target="_blank" rel="noopener"><svg class="link-icon" viewBox="0 0 24 24" aria-hidden="true"><path d="m2 10 10-5 10 5-10 5Z"></path><path d="M6 12v4.5c3.4 2.4 8.6 2.4 12 0V12M22 10v6"></path></svg><span class="link-label">Google Scholar</span></a>
+            <a href="https://github.com/{{ site.author.github }}" target="_blank" rel="noopener"><svg class="link-icon" viewBox="0 0 24 24" aria-hidden="true"><path d="M15 22v-4a4.8 4.8 0 0 0-1-3.5c3.3-.4 6.8-1.6 6.8-7A5.4 5.4 0 0 0 19.3 4c.1-.4.5-2-.1-3.8 0 0-1.2-.4-4 1.5a13.8 13.8 0 0 0-7.2 0C5.2-.2 4 0.2 4 0.2c-.6 1.8-.2 3.4-.1 3.8A5.4 5.4 0 0 0 2.2 7.5c0 5.4 3.5 6.6 6.8 7A4.8 4.8 0 0 0 8 18v4"></path><path d="M8 18c-3.5 1.6-4-1.5-5.5-2"></path></svg><span class="link-label">GitHub</span></a>
+            <a href="https://www.linkedin.com/in/{{ site.author.linkedin }}" target="_blank" rel="noopener"><svg class="link-icon" viewBox="0 0 24 24" aria-hidden="true"><path d="M16 8a6 6 0 0 1 6 6v7h-4v-7a2 2 0 0 0-4 0v7h-4v-7a6 6 0 0 1 6-6Z"></path><rect x="2" y="9" width="4" height="12"></rect><circle cx="4" cy="4" r="2"></circle></svg><span class="link-label">LinkedIn</span></a>
+          </div>
+        </div>
+        <div class="profile-photo-wrap"><img class="profile-photo" src="{{ base_path }}/images/{{ site.author.avatar }}" alt="Portrait of {{ site.author.name }}"></div>
+      </section>
+
+      <section id="news" class="page-section content-section">
+        <div class="section-heading"><span>01</span><h2>News</h2></div>
+        <ul class="news-list">
+          <li><time datetime="2026-06">Jun. 2026</time><p>Our paper <a href="#publications">CWI</a> was accepted by <strong>IEEE Robotics and Automation Letters</strong>.</p></li>
+          <li><time datetime="2025-09">Sep. 2025</time><p>I started my Ph.D. at the <strong>University of Hong Kong</strong>.</p></li>
+          <li><time datetime="2025-04">Apr. 2025</time><p>I began an internship at <strong>LimX Dynamics</strong>, working on humanoid control and real-robot reinforcement learning.</p></li>
+          <li><time datetime="2024-08">Aug. 2024</time><p>Our work on commonsense scene graphs received an <strong>oral presentation</strong> at IROS 2024.</p></li>
+          <li><time datetime="2024-03">Mar. 2024</time><p>I interned at <strong>Tencent Robotics X</strong>, working on LLM-guided robotic manipulation.</p></li>
+        </ul>
+      </section>
+
+      <section id="publications" class="page-section content-section">
+        <div class="section-heading"><span>02</span><h2>Selected Publications</h2></div>
+        <p class="section-note">A short list of research projects. See the <a href="{{ base_path }}/publications/">full publication list</a> for details.</p>
+        <div class="publication-list">
+          <article class="publication-row" id="cwi"><a class="publication-media" href="https://cwi-ral.github.io/CWI-RAL-Webpage/"><img src="{{ base_path }}/images/composite.drawio_v2.png" alt="CWI whole-body imitation system"></a><div class="publication-body"><h3><a href="https://cwi-ral.github.io/CWI-RAL-Webpage/">CWI: Composite Humanoid Whole-Body Imitation System for Loco-manipulation</a></h3><p><strong>Wenqi GE</strong>, Junde Guo, Zhen Fu, et al.</p><p class="publication-venue">Accepted by IEEE Robotics and Automation Letters (RAL)</p><p class="publication-links"><a href="https://ieeexplore.ieee.org/abstract/document/11595502">IEEE Xplore</a><a href="https://arxiv.org/abs/2606.27676">arXiv</a><a href="https://cwi-ral.github.io/CWI-RAL-Webpage/">Project page</a></p></div></article>
+          <article class="publication-row"><a class="publication-media" href="https://ieeexplore.ieee.org/abstract/document/11319214/"><img src="{{ base_path }}/images/pami25.png" alt="Behavior foundation model survey"></a><div class="publication-body"><h3><a href="https://ieeexplore.ieee.org/abstract/document/11319214/">A Survey of Behavior Foundation Model: Next-Generation Whole-Body Control System of Humanoid Robots</a></h3><p>Mingqi Yuan, Tao Yu, <strong>Wenqi GE</strong>, Xiuyong Yao, et al.</p><p class="publication-venue">Published in IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2026</p><p class="publication-links"><a href="https://ieeexplore.ieee.org/abstract/document/11319214/">Paper</a></p></div></article>
+          <article class="publication-row"><a class="publication-media" href="https://sites.google.com/view/csg-os"><img src="{{ base_path }}/images/CSG-gif.gif" alt="Commonsense scene graph localization"></a><div class="publication-body"><h3><a href="https://sites.google.com/view/csg-os">Commonsense Scene Graph-based Target Localization for Object Search</a></h3><p><strong>Wenqi GE</strong>, Chao Tang, Hong Zhang</p><p class="publication-venue">IROS 2024, Oral Presentation</p><p class="publication-links"><a href="https://arxiv.org/abs/2404.00343">arXiv</a><a href="https://sites.google.com/view/csg-os">Project page</a><a href="https://www.youtube.com/watch?v=W_fRpC8F86Y">Video</a></p></div></article>
+          <article class="publication-row"><a class="publication-media" href="https://sites.google.com/view/graspgpt/"><img src="{{ base_path }}/images/graspGPT.gif" alt="GraspGPT task-oriented grasping"></a><div class="publication-body"><h3><a href="https://sites.google.com/view/graspgpt/">GraspGPT: Leveraging Semantic Knowledge from a Large Language Model for Task-Oriented Grasping</a></h3><p>Chao Tang, Dehao Huang, <strong>Wenqi GE</strong>, Weiyu Liu, Hong Zhang</p><p class="publication-venue">IEEE Robotics and Automation Letters (RAL), 2023</p><p class="publication-links"><a href="https://arxiv.org/abs/2307.13204">arXiv</a><a href="https://sites.google.com/view/graspgpt/">Project page</a><a href="https://www.youtube.com/watch?v=qq0DMdHRw1E">Video</a></p></div></article>
+        </div>
+      </section>
+
+      <section id="experience" class="page-section content-section split-section">
+        <div><div class="section-heading"><span>03</span><h2>Education</h2></div><ul class="timeline-list"><li><strong>Ph.D., The University of Hong Kong</strong><span>2025-present · Data and Systems Engineering</span></li><li><strong>M.S., Southern University of Science and Technology</strong><span>2022-2025 · Electronic Science and Technology</span></li><li><strong>B.S., Hefei University of Technology</strong><span>2018-2022 · Computer Science and Technology</span></li></ul></div>
+        <div><div class="section-heading"><span>04</span><h2>Experience</h2></div><ul class="timeline-list"><li><strong>LimX Dynamics</strong><span>Apr. 2025-present · Humanoid whole-body control and real-robot RL</span></li><li><strong>Tencent Robotics X</strong><span>Mar. 2024-Aug. 2024 · LLM-guided robotic manipulation</span></li></ul></div>
+      </section>
+
+      <section id="awards" class="page-section content-section"><div class="section-heading"><span>05</span><h2>Selected Honors</h2></div><ul class="honors-list"><li><strong>Outstanding Graduate</strong>, Hefei University of Technology, 2022</li><li><strong>Runner-up</strong>, ROBOMASTER Regional Tournament, 2020-2021</li><li><strong>Champion</strong>, National Undergraduate Engineering Training Competition (Anhui), 2021</li><li><strong>Runner-up</strong>, National College Computer Competency Challenge (East China), 2021</li><li><strong>Champion</strong>, Anhui Province Robotics Competition, 2021</li><li><strong>Champion</strong>, Anhui Province College IoT Application Innovation Competition, 2021</li></ul></section>
+    </main>
+    <footer class="homepage-footer"><p>{{ site.author.name }} · Hong Kong</p><p><a href="mailto:{{ site.author.email }}">Get in touch</a> · <a href="#about">Back to top</a></p></footer>
+  </body>
+</html>
