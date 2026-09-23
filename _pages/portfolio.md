@@ -48,12 +48,12 @@ h1.page1 {
 
 </style>
 
-<h1 id="work-scene-dr-ppo" class="page1" >Reference-Guided RL for Humanoid Manipulation in Reconstructed Scenes</h1>
-<a  target="_blank" class="custom-link arxiv"><em>Sep. 2026 &ndash; present</em></a>
-<a  target="_blank" class="custom-link web">Ongoing work</a>
+<h1 id="work-scene-dr-ppo" class="page1" >Reconstructed-Scene Simulation Setup for Humanoid Manipulation</h1>
+<a  target="_blank" class="custom-link arxiv"><em>Sep. 2026</em></a>
+<a  target="_blank" class="custom-link web">Engineering implementation</a>
 
 <p>
-Reconstructed the real workspace in 3D and rebuilt it as an Isaac Lab scene, then defined domain randomization regions over the robot base and the manipulated objects so that each parallel environment samples a different layout. A single reference trajectory supplies the task prior, and PPO is trained on top of it across many randomized environments running in parallel. The video walks through the pipeline: the reconstructed scene with its randomization regions, parallel-environment training, and a rollout of the learned policy.
+An engineering setup I put together so that policies can be evaluated quickly and repeatably in simulation. The real workspace is reconstructed in 3D and rebuilt as an Isaac Lab scene, with domain randomization regions defined over the robot base and the manipulated objects so that each parallel environment samples a different layout. A single reference trajectory supplies the task prior, and PPO is trained on top of it across parallel environments. The video walks through the setup: the reconstructed scene with its randomization regions, parallel-environment training, and a rollout of the resulting policy.
 </p>
 
 <video src="../images/scene-dr-ppo.mp4" style="width:100%; height:auto;" controls autoplay loop muted playsinline></video>
