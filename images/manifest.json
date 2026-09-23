@@ -1,5 +1,5 @@
 {
-  "name": "Minimal Mistakes",
+  "name": "Wenqi GE",
   "icons": [
     {
       "src": "\/images\/android-chrome-36x36.png?v=M44lzPylqQ",
@@ -32,7 +32,7 @@
       "density": 3
     },
     {
-      "src": "\/images\/auniverse.png?v=M44lzPylqQ",
+      "src": "\/images\/universe.png?v=M44lzPylqQ",
       "sizes": "192x192",
       "type": "image\/png",
       "density": 4
