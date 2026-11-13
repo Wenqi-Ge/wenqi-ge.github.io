@@ -48,15 +48,15 @@ h1.page1 {
 
 </style>
 
-<h1 id="work-scene-dr-ppo" class="page1" >Reconstructed-Scene Simulation Setup for Humanoid Manipulation</h1>
+<h1 id="work-scene-dr-ppo" class="page1" >Sim-to-Real VLA Training for Humanoid Manipulation</h1>
 <a  target="_blank" class="custom-link arxiv"><em>Sep. 2026</em></a>
 <a  target="_blank" class="custom-link web">Engineering implementation</a>
 
 <p>
-An engineering setup I put together so that policies can be evaluated quickly and repeatably in simulation. The real workspace is reconstructed in 3D and rebuilt as an Isaac Lab scene, with domain randomization regions defined over the robot base and the manipulated objects so that each parallel environment samples a different layout. A single reference trajectory supplies the task prior, and PPO is trained on top of it across parallel environments. The video walks through the setup: the reconstructed scene with its randomization regions, parallel-environment training, and a rollout of the resulting policy.
+I trained residual PPO teacher policies on top of a few teleoperation trajectories in scenes reconstructed with 3D Gaussian Splatting (3DGS) and augmented with interactive objects. With domain randomization, these teachers served as data collectors to generate diverse demonstrations at scale. I then co-trained a vision-language-action (VLA) model via supervised fine-tuning (SFT) on mixed simulated and real data and deployed it on a humanoid robot.
 </p>
 
-<video src="../images/scene-dr-ppo.mp4" style="width:100%; height:auto;" controls autoplay loop muted playsinline></video>
+<img src="../images/humanoid-vla-overview.jpg" alt="Humanoid manipulation across four tasks: fruit handling, hanging objects, table cleaning, and collecting toys in a basket, shown from head, wrist, and third-person cameras." width="641" height="788" style="display:block; width:100%; height:auto; border-style:none;">
 
 <br><br>
 
